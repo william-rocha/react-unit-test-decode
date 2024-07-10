@@ -1,4 +1,3 @@
-+++markdown
 # Testando Aplicações React com Jest & Testing Library - Decode #012
 
 ## Introdução
@@ -115,8 +114,4 @@
 - **vite**:
   - Ferramenta de bundling e desenvolvimento para projetos front-end. Fornece um ambiente de desenvolvimento rápido e otimizado para projetos modernos, como React.
 
-+++
 
----
-
-+++
